@@ -20,7 +20,7 @@
 
     1. ## Competidores
 
-        1. ### Análisi competitivo
+        1. ### Análisis competitivo
             <table><tr><th colspan="3" valign="top">Competitive Analysis Landscape</th></tr>
             <tr><td colspan="3" valign="top">¿Por qué llevar a cabo este análisis? <br>Realizar un análisis exhaustivo de los principales competidores en el mercado es crucial para comprender el panorama competitivo y tomar decisiones estratégicas informadas. Este análisis es necesario para identificar las ventajas competitivas y las oportunidades de mejora que nuestro Startup, "Skill Grades," puede aprovechar para destacarse en el mercado educativo peruano.</td></tr>
             <tr><td colspan="2" valign="top">Nombre</td><td valign="top">SICRECE (Sistema de Consulta de Resultados de Evaluaciones)</td></tr>
@@ -67,9 +67,81 @@
 
         1. ### Diseño de entrevistas
 
+            Preguntas Introductorias (Comunes para Padres y Profesores):
+            
+            - ¿Podría comenzar por compartir su nombre y su relación con la institución educativa?
+            - ¿Qué grado o nivel escolar están involucrados en su caso? (Especifique si es un padre o profesor director)
+            - ¿Con qué frecuencia está en contacto con las calificaciones y evaluaciones académicas de los estudiantes?
+            - ¿Cuál es su experiencia previa con plataformas en línea relacionadas con la educación?
+            - ¿Cuáles son sus expectativas al acceder a una plataforma que gestiona calificaciones y evaluaciones escolares?
+            
+            Preguntas para Padres de Familia:
+            
+            - ¿Qué dispositivos tecnológicos utiliza regularmente para acceder a información escolar? (Ej. computadora, teléfono móvil, tableta)
+            - ¿Cuáles son los navegadores web que suele utilizar en sus dispositivos para acceder a contenido en línea?
+            - ¿Qué información específica le gustaría tener acceso cuando revise las calificaciones de su hijo/a?
+            - ¿Consideraría útil poder filtrar y organizar las calificaciones por competencias específicas?
+            - ¿Qué características adicionales le gustaría ver en una plataforma de gestión de calificaciones y evaluaciones?
+            - ¿Qué nivel de involucramiento le gustaría tener en el seguimiento del progreso académico de su hijo a través de la plataforma?
+            - ¿Cómo se siente acerca de la posibilidad de recibir notificaciones automáticas sobre cambios en las calificaciones o el rendimiento de su hijo/a?
+            - ¿Qué tipo de información adicional le gustaría ver junto a las calificaciones, como comentarios del profesor o sugerencias de mejora?
+            - ¿En qué medida considera importante la posibilidad de acceder a la plataforma en diferentes idiomas para una comunicación más inclusiva?
+            
+            Preguntas para Profesores:
+            
+            - ¿En qué medida cree que una plataforma de gestión de calificaciones y evaluaciones podría mejorar la eficiencia de la administración escolar?
+            - ¿Cuáles son las principales dificultades que enfrenta al registrar y analizar las calificaciones de los estudiantes?
+            - ¿Utiliza actualmente algún sistema o software para gestionar las calificaciones y el rendimiento estudiantil? Si es así, ¿cuáles son sus puntos fuertes y débiles?
+            - ¿Qué características específicas espera de una plataforma que facilite la colaboración entre profesores y el análisis de datos?
+            - ¿Cómo cree que una plataforma podría ayudar a alinear mejor las calificaciones con las competencias educativas?
+            - ¿En qué medida considera importante la posibilidad de acceder a la plataforma en diferentes idiomas para una comunicación más inclusiva?
+            - ¿Qué ventajas ve en la posibilidad de acceder a las calificaciones y evaluaciones desde dispositivos móviles?
+            - ¿Qué preocupaciones podría tener en relación con la seguridad y privacidad de los datos en una plataforma en línea?
+            - ¿Cómo imagina que una plataforma como esta podría impactar positivamente en la experiencia educativa de los estudiantes?
+            - ¿Tiene alguna pregunta o inquietud adicional que le gustaría compartir sobre este tipo de plataforma?
+
         2. ### Registro de entrevistas
 
+            Entrevista #01: Alvaro Lamg Chang (Edad: 25 años – Distrito: Jesús María) – Fecha de Entrevista: 04/09/2023
+            
+            ![](./img/Entrevista_01.jpeg)
+            
+            Link: 
+            
+            
+            Resumen de la Entrevista:
+            
+            
+                Alvaro, docente de informática para grados 3ro, 4to y 5to de secundaria, busca una plataforma de calificaciones que sea rápida, segura y sin fallas de disponibilidad. A pesar de su poca experiencia con tales plataformas, espera características como estadísticas para mejorar el rendimiento estudiantil y herramientas de análisis completo para ayudar a los alumnos. Actualmente utiliza hojas físicas y documentos de Excel. Además, valora la capacidad de crear y compartir reportes con otros profesores, la disponibilidad en varios idiomas y la accesibilidad desde dispositivos móviles. Sus principales preocupaciones son la seguridad de los datos de los estudiantes, dado que son menores de edad, y la posibilidad de manipulación de notas. Alvaro ve la plataforma como una herramienta que facilitaría la toma de decisiones para mejorar la calidad educativa y tiene preguntas sobre su disponibilidad y colaboración con otras instituciones.
+
         3. ### Análisis de entrevsitas
+            Análisis de Entrevistas con Profesores:
+            
+            - Rapidez, Seguridad y Disponibilidad: Los entrevistados enfatizan la necesidad de una plataforma que sea rápida, segura y esté disponible sin fallos. Esto subraya la importancia de proporcionar una experiencia de usuario fluida y confiable.
+            
+            - Facilidad de Acceso y Uso: Se destaca la importancia de que los estudiantes puedan acceder fácilmente a sus calificaciones y de que la plataforma sea sencilla de utilizar. Esto es fundamental para asegurar una adopción efectiva.
+            
+            - Estadísticas y Análisis: Se busca la inclusión de características relacionadas con estadísticas y herramientas de análisis completo para mejorar el rendimiento de los estudiantes. Esto resalta la necesidad de ofrecer un análisis detallado de los datos académicos.
+            
+            - Reemplazo de Métodos Manuales: Se menciona la dependencia actual de métodos manuales, como hojas físicas y documentos de Excel, lo que resalta la oportunidad de ofrecer una solución que reemplace estos métodos con eficiencia.
+            
+            - Colaboración entre Profesores: Los entrevistados expresan interés en la capacidad de crear y compartir reportes con otros profesores. Esto promueve la colaboración y el trabajo en equipo en el ámbito educativo.
+            
+            - Accesibilidad Móvil: Se considera importante que la plataforma sea accesible desde dispositivos móviles, lo que permite a los usuarios acceder a las notas en cualquier momento y lugar.
+            
+            - Seguridad de Datos: Se expresan preocupaciones por la seguridad de los datos de los estudiantes y la posibilidad de manipulación de notas. Esto destaca la necesidad de medidas sólidas de ciberseguridad.
+            
+            - Facilitación de Decisiones Educativas: Se ve la plataforma como una herramienta para facilitar la toma de decisiones educativas y mejorar la calidad de la enseñanza.
+            
+            - Ranking Académico: Se espera que la plataforma ofrezca un sistema de ranking del nivel académico de los estudiantes, lo que puede ayudar a identificar a aquellos que necesitan apoyo adicional.
+            
+            - Flexibilidad y Personalización: Se subraya la necesidad de flexibilidad y personalización en la plataforma para satisfacer las necesidades específicas de cada docente.
+            
+            Estas entrevistas proporcionan una visión valiosa de las expectativas y necesidades de los profesores en relación a la plataforma "Skill Grades". El análisis conjunto resalta la importancia de características clave, como velocidad, seguridad, análisis de datos, facilidad de uso y colaboración, que deben ser consideradas en el desarrollo de la plataforma para garantizar su éxito en el entorno educativo.
+
+
+
+
 
     3. ## Needfinding
 
