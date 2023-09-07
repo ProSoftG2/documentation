@@ -161,9 +161,33 @@
 
         4. ### User Journey Mapping
 
-        5. ### Empathy Mapping
+           User Journey Mappinf Profesores:
 
-        6. ### As-is Scenario Mapping
+           ![](https://i.imgur.com/DNE54Eu.png)
+           
+           User Journey Mappinf Padres de Familia:
+
+           ![](https://i.imgur.com/AuUgeyZ.png)
+
+        6. ### Empathy Mapping
+
+           Empathy Mapping Profesores:
+
+           ![](https://i.imgur.com/T3VdINs.png)
+
+           Empathy Mapping Padres de Familia:
+
+           ![](https://i.imgur.com/F8rOk2q.png)
+
+        7. ### As-is Scenario Mapping
+
+           As-is Scenario Mapping Profesores:
+
+           ![](https://i.imgur.com/pMGQiO5.png)
+
+           As-is Scenario Mapping Padres de Familia:
+
+           ![](https://i.imgur.com/XGDzI2g.png)
 
 3. # REQUIREMENTS SPECIFICATION 
 
