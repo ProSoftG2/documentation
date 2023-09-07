@@ -146,14 +146,22 @@
     3. ## Needfinding
 
         1. ### User Personas
+  
+           User Persona Profesor:
+           ![](https://imgur.com/fSVqbbz)
+  
+           User Persona Padre de Familia:
+           ![](https://imgur.com/tq0bqIG)
 
-        2. ### User Task Matrix
+ 
 
-        3. ### User Journey Mapping
+        3. ### User Task Matrix
 
-        4. ### Empathy Mapping
+        4. ### User Journey Mapping
 
-        5. ### As-is Scenario Mapping
+        5. ### Empathy Mapping
+
+        6. ### As-is Scenario Mapping
 
 3. # REQUIREMENTS SPECIFICATION 
 
