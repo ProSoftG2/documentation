@@ -21,8 +21,47 @@
     1. ## Competidores
 
         1. ### Análisi competitivo
+            <table><tr><th colspan="3" valign="top">Competitive Analysis Landscape</th></tr>
+            <tr><td colspan="3" valign="top">¿Por qué llevar a cabo este análisis? <br>Realizar un análisis exhaustivo de los principales competidores en el mercado es crucial para comprender el panorama competitivo y tomar decisiones estratégicas informadas. Este análisis es necesario para identificar las ventajas competitivas y las oportunidades de mejora que nuestro Startup, "Skill Grades," puede aprovechar para destacarse en el mercado educativo peruano.</td></tr>
+            <tr><td colspan="2" valign="top">Nombre</td><td valign="top">SICRECE (Sistema de Consulta de Resultados de Evaluaciones)</td></tr>
+            <tr><td colspan="2" valign="top">Logo</td><td valign="top">![](Aspose.Words.f2c2ce62-cce6-480d-8901-338ea18ecb49.001.png)</td></tr>
+            <tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">"SICRECE" es una plataforma implementada por el Ministerio de Educación del Perú a través de la Oficina de Medición de la Calidad de los Aprendizajes (UMC). Su principal función es proporcionar acceso a los resultados de evaluaciones nacionales e internacionales realizadas desde 2007 para medir la calidad de los aprendizajes en el sistema educativo peruano.</td></tr>
+            <tr><td valign="top"><p>Ventaja</p><p>competitiva</p><p>¿Qué valor</p><p>ofrece a los</p><p>clientes</p></td><td valign="top">"SICRECE" tiene una ventaja importante al ser una fuente oficial de información sobre las evaluaciones educativas en Perú. Esto le brinda un alto nivel de confiabilidad y credibilidad en cuanto a la presentación de los resultados y su alineación con los estándares nacionales.</td></tr>
+            <tr><td rowspan="2" valign="top"><p>Perfil de</p><p>Marketing</p></td><td valign="top"><p>Mercado</p><p>Objetivo</p></td><td valign="top">Dirigido a instituciones educativas, docentes, padres de familia y público en general interesado en conocer los resultados de las evaluaciones educativas a nivel nacional.</td></tr>
+            <tr><td valign="top"><p>Estrategias</p><p>de</p><p>Marketing</p></td><td valign="top">Dado que es una plataforma gubernamental, su promoción se basa en la difusión oficial a través de canales del Ministerio de Educación y medios de comunicación gubernamentales.</td></tr>
+            <tr><td rowspan="3" valign="top"><p>Perfil de</p><p>Producto</p></td><td valign="top"><p>Productos</p><p>y Servicios</p></td><td valign="top">Proporciona acceso a los resultados de evaluaciones educativas a nivel de instituciones, regiones y nacional, permitiendo un análisis comparativo a lo largo del tiempo.</td></tr>
+            <tr><td valign="top"><p>Precios y</p><p>Costos</p></td><td valign="top">Por lo general, la información proporcionada por "SICRECE" es de acceso público y gratuito para los usuarios.</td></tr>
+            <tr><td valign="top"><p>Canales de</p><p>distribución (Web y/o</p><p>móvil)</p></td><td valign="top">Plataforma web oficial del Ministerio de Educación y otros canales gubernamentales.</td></tr>
+            <tr><td rowspan="4" valign="top"><p>Análisis</p><p>SWOT</p></td><td valign="top">Fortalezas</td><td valign="top">Ofrece información oficial y confiable, alineada con los estándares educativos nacionales. Tiene un alcance amplio al ser gestionado por el gobierno.</td></tr>
+            <tr><td valign="top">Debilidades</td><td valign="top">Puede tener limitaciones en términos de análisis avanzados y herramientas de filtrado personalizado. La información puede ser estática y no permitir interacción directa con los datos.</td></tr>
+            <tr><td valign="top">Oportunidades</td><td valign="top">Explorar opciones para proporcionar herramientas de análisis más detallado y personalizado a los usuarios, lo que podría aumentar su utilidad.</td></tr>
+            <tr><td valign="top">Amenazas</td><td valign="top">La falta de análisis detallado y personalizado podría impulsar la demanda de plataformas externas que ofrezcan estas funciones.</td></tr>
+            </table>
 
         2. ### Estrategias y tácticas frente a competidores
+
+            Entre las principales estrategias que podemos utilizar para superar a nuestro competidor tenemos:
+            
+            - Enriquecimiento Analítico: Dado que "SICRECE" puede carecer de análisis detallado y personalizado, nuestra plataforma, "Skill Grades," podría destacar ofreciendo herramientas avanzadas de análisis que permitan a las instituciones educativas y padres explorar los resultados en profundidad. Esto podría incluir la capacidad de segmentar los resultados según competencias específicas, identificar tendencias a lo largo del tiempo y generar informes personalizados.
+            
+            - Interfaz de Usuario Mejorada: La interfaz de "Skill Grades" sera intuitiva y fácil de usar, lo que marcara una gran diferencia frente a la plataforma gubernamental. Diseñar una experiencia agradable para los usuarios aumentara su compromiso y satisfacción.
+            
+            - Personalización de Datos: Skill Grades ofrecerá a las instituciones educativas y a los padres la posibilidad de personalizar sus visualizaciones y análisis de datos. Permitirles elegir qué información desean ver y cómo desean que se presente podría aumentar su utilidad y relevancia.
+            
+            - Herramientas de Acción: Nuestra plataforma contará con funcionalidades que irán más allá de la presentación de resultados. Se proporcionará recomendaciones basadas en los datos, como sugerencias para áreas de mejora en el aprendizaje de los estudiantes.
+            
+            - Capacitación y Soporte: Ofrece recursos de capacitación y soporte excepcionales para garantizar que las instituciones educativas y los padres puedan aprovechar al máximo las capacidades de la plataforma. Esto podría diferenciarte en términos de atención al cliente.
+            
+            - Colaboraciones Estratégicas: Explora asociaciones con instituciones y organizaciones educativas para demostrar la utilidad de tu plataforma y su capacidad para mejorar la toma de decisiones educativas.
+            
+            - Educación sobre Competencias: Resalta cómo "Skill Grades" se enfoca en las competencias educativas, lo que puede proporcionar una ventaja educativa y formativa más allá de la simple presentación de resultados.
+            
+            - Análisis Comparativo: Ofrece a los usuarios la capacidad de comparar los resultados de sus instituciones con datos nacionales y regionales, permitiéndoles obtener una perspectiva más amplia de su desempeño.
+            
+            - Feedback de Usuarios: Aprovecha los comentarios y las sugerencias de los usuarios para mejorar y expandir las capacidades de "Skill Grades". Demuestra que estás comprometido en brindar una solución que se adapte a sus necesidades.
+            
+            - Marketing Focalizado: Destaca cómo "Skill Grades" complementa y mejora la información proporcionada por "SICRECE". Asegúrate de comunicar tus ventajas únicas a través de campañas de marketing dirigidas a instituciones educativas, docentes y padres.
+
 
     2. ## Entrevistas
 
