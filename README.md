@@ -4,16 +4,163 @@
     1. ## Startup Profile
         <!-- LENNE ACA -->
         1. ### Descripción del startup
-        <!-- LENNE ACA -->
-        2. ### Perfiles de integrantes del equipo
-        <!-- LENNE ACA -->
+            Star Soft es un startup creado por estudiantes universitarios motivados por hacer un cambio positivo y aportar beneficios para el mundo usando herramientas de software. ¿Sabía usted que el 14% de los nuevos estudiantes en nuestro país fracasan debido a una toma de decisión deficiente? Si acaba de estudiar una nueva carrera o es un estudiante de cualquier casa de estudio, sabe que cualquier interacción con sus decisiones es una valiosa oportunidad para causar una primera impresión impactante y duradera en su vocación profesional con nuestra Aplicación GoCareer. 
 
     2. ## Solution Profile
 
+        Nuestra solución sería una plataforma de orientación vocacional que tenga una gran cantidad de información de la variedad de carreras que hay en el país, artículos de profesionales de cómo ya es la carrera en el ámbito profesional para que pueda tener una mejor perspectiva de la carrera. Aparte también tendría acceso a diferentes test que pueden orientar el área académica donde le conviene más al usuario elegir su carrera de acuerdo con sus habilidades, preferencias, conocimientos, etc. En caso el usuario quiera llevar un servicio profesional personalizado, la plataforma tendría a su disposición un grupo de psicólogos especializados con los que el usuario podría pagar una cita para que pueda llevar una orientación personalizada en donde puede realizar un test personalizado mucho más específico y un seguimiento mejor adaptado para el cliente.
+        
+        Star Soft contará con el apoyo de especialistas en asesoría académica de distintos organismos locales y universidades para consultar en temas y necesidades que pueden presentar los usuarios de la categoría estudiantes suscritos a la plataforma en desarrollo. Pensamos proyectarnos principalmente en la ciudad y departamento de Lima debido a que la mayoría de las universidades están presentes dentro de este territorio y proyectamos que más del 50% de graduados de secundaria tendrán mejor asegurada su carrera ideal para tener a los mejores profesionales en el futuro más próximo posible. 
+        
+        El producto:
+        
+        Nuestro producto en desarrollo lleva el nombre de “GoCareer” y, como se explicó previamente, busca servir como una guía personalizada para que las siguientes generaciones de estudiantes universitarios puedan elegir su carrera ideal en base a la información introducida en sus perfiles y avalada por la información proveída por los expertos asociados a nosotros, buscando satisfacer a todos los usuarios posibles y ubicarlos en posiciones que saquen a relucir su potencial completo.
+
+
         1. ### Antecedentes y Problemática
+
+            **Antecedentes**
+            
+            Según López, G.B. (2019), expresa que, para Sabino Colinas, analista mexicano especializado en política, leyes y administración pública, la población NINI es un problema muy grave ya que son personas que ni estudian ni trabajan y por esta misma razón sufren de discriminación y exclusión social. Sin embargo, algunos de ellos son personas que buscan trabajo o estudios, pero a pesar de asistir a entrevistas y exámenes solo reciben negativas. Por consiguiente, están destinados a vivir una vida improductiva, frustrante y angustiante.
+            
+            **Problemática**
+            
+            La problemática respecto a la elección de una carrera profesional abarca cada año a una nueva generación de jóvenes y a una gran cantidad de adultos jóvenes y mayores que no pudieron llevar su carrera antes. Es una problemática que siempre va a estar presente debido a que es muy difícil tener claro cómo va a ser una carrera antes de llevarla o conocerla, y es un problema de bastante importancia ya que de esto dependen los futuros profesionales del país.
+
+            - **¿Qué?** 
+            
+            La problemática en cuestión es la dificultad que tienen los jóvenes graduados de escuelas y los adultos jóvenes y mayores a la hora de elegir una carrera profesional debida falta de información y conocimiento para la elección de una carrera profesional que les guste.
+            
+            - **¿Cuándo?**
+            
+            Este problema se da cuando se quiere estudiar una carrera profesional pero no se está seguro de cuál es la mejor para uno mismo.
+            
+            - **¿Dónde?**
+            
+            El problema tiene lugar en Perú, donde existe una gran cantidad de clientes potenciales.
+            
+            - **¿Quién?**
+            
+            Las personas afectadas por el problema son jóvenes que se han graduado en la escuela y van a empezar la vida universitaria. Y también a los adultos jóvenes y mayores que no han encontrado una carrera profesional que les guste estudiar.
+            
+            - **¿Por qué?**
+            
+            Sucede porque las personas cuando quieren estudiar una carrera profesional no saben cómo asegurarse de poder tomar la mejor decisión, ya que su carrera profesional es una de las mayores decisiones de la vida.
+            
+            - **¿Cómo?**
+            
+            Surge debido a que nadie quiere arriesgarse a llevar una carrera que una vez haya sido estudiada un tiempo tenga que cambiarse de carrera porque no le gusta. Y por eso es mucho mejor informarse y recibir ayuda a la hora de elegir su carrera profesional.
+            
+            - **¿Cuánto?**
+            
+            Según el Instituto de Economía y Desarrollo Empresarial (IEDEP), en el Perú existen más de 1.3 millones de Ninis en el rango de edades desde 15 y 29 años en el año 2018. Adicionalmente, según la Encuesta Nacional de Hogares (ENAHO) de 2018, el 68% de la población NINI son mujeres entre 15 y 29 años y el 32% de la población NINI son hombres en el mismo rango de edad.
+
 
         2. ### Lean UX Process
 
+            **Lean UX Problem Statements**
+
+            **Problem Statements 1: Estudiantes de Colegio**
+            
+            Actualmente, los estudiantes de colegio luego de terminar su etapa escolar, suelen tener muy poco tiempo para elegir una carrera profesional que les guste, siendo una decisión muy importante para su futuro, ya que de esta decisión su desenvolvimiento en el ámbito laboral.
+            
+            De este modo, se ha detectado como factor critico el hecho de no disponer un software que facilite la decisión al estudiante de escoger una carrera profesional que les guste. Debido a que muchas veces debido al poco tiempo que disponen para tomar esta decisión terminan escogiendo una carrea equivocada y no finalizan sus estudios superiores.
+            
+            ¿Como puedo ayudar a los estudiantes de colegio a que tomen la mejor decisión a la hora de elegir una carrera profesional mediante la elaboración de un software?
+            
+            **Problem Statement 2: Adultos Desempleados**
+            
+            A menudo, los adultos desempleados suelen ser personas que no han logrado finalizar sus estudios universitarios, debido a que la carrera profesional que optaron por estudiar no les termino gustando.
+            
+            Por lo tanto, se identifico la necesidad de elaborar un software que ayude a los adultos desempleados a encontrar una carrera universitaria que les guste y asi puedan culminar sus estudios universitarios.
+            
+            ¿Cómo puedo ayudar a los adultos desempleados a encontrar una carrera profesional que les guste estudiar mediante la elaboración de un software?
+            
+            **Problem Statement 3: Especialistas**
+            
+            Actualmente, los especialistas son personas profesionales que poseen un titulo que respaldan su saber. Sin embargo, a pesar de las habilidades que poseen para ayudar a las personas a resolver sus problemas, muchas veces las personas no acuden a ellos y por consiguiente, a veces estas personas terminan complicando aún más sus problemas personales
+            
+            De este modo, se ha identificado como factor critico el hecho de no disponer de un software que facilite a las personas a la comunicación con estos especialistas, cuyos saberes podrían ayudar a las personas a encontrar una solución a sus problemas personales.
+            
+            ¿Como puedo elaborar un software que facilite la comunicación con los especialistas para que acudan a sus servicios?
+
+            Lean UX Assumptions**
+            
+            - **Business Outcomes:**
+              - **Hare dinero a través de** planes de suscripción mensuales y trimestrales
+              - **Nuestro mayor riesgo de producto es** que los especialistas sean irresponsables y lleguen a perjudicar en orientación vocacional con información deficiente
+              - **Resolveremos esto a través de** un sistema de rankings que nos ayuden a escoger buenos especialistas.
+              - **El valor #1 que un cliente quiere de mi servicio es de** poder escoger una carrera profesional que le guste estudiar.
+              - **Creo que mis clientes necesitan** la elaboración de un software eficiente y accesible que les ayude a escoger una carrera profesional que les guste.
+              - **Estas necesidades se pueden resolver** mediante un software que les ayude a comunicarse con especialistas profesionales que les ayude en su decisión de escoger una carrera profesional.
+              - ` `En nuestra app se usará un sistema de ranking para los usuarios 
+            - **User Assumptions:** 
+              - **¿Quién es el usuario?**
+            
+            **-** Son los estudiantes recién graduados del colegio y también los adultos jóvenes y mayores desempleados
+            
+            **-**Son los especialistas encargados de ayudar a las personas a escoger una carrera profesional que les guste
+            
+            - **¿Dónde encaja nuestro producto? ¿En su trabajo o en su vida?**
+            
+            Nuestro producto esta destinado a usar en su vida diaria tanto por las personas que buscan estudiar una carrera profesional y en el ámbito laboral para los especialistas
+            
+            - **¿Qué problemas tiene nuestro producto y como se pueden resolver?**
+            
+            **Problemas:**
+            
+            **-**Que el producto no sea fácil de usar y el diseño no sea atractivo para el cliente
+            
+            **-**Que el producto no cuente con un precio accesible o no haya los suficientes beneficios que motive al usuario pagar una suscripción
+            
+            **Solución**
+            
+            **-**Realizar el diseño de la aplicativo en base en las entrevistas echas hacia los usuarios para poder comprender sus expectativas y cumplir con ello.
+            
+            **-**Realizar entrevistas a los usuarios para poder saber cualen son las expectativos sobre el funcionamiento de la aplicación para averiguar cuales son los beneficios que esperan y cuanto estarían dispuestos a pagar por dicho servicio. 
+            
+            - **¿Cuándo y como es usado nuestro producto?**
+            
+            Nuestro producto será usado por personas que quieran ayuda a la hora de escoger una carrera profesional. Para ello en nuestro producto se ingresará un usuario y contraseña. Después abra una opción el cual el usuario puede ver cuando se dan charlas grupales por parte de los especialistas. Además, también dispondrá de una lista de especialistas en cual se pondrá en contacto con ellos en el caso de que quiera cita más personalizada. Por último, también abra una opción en el cual el usuario podrá dar un test vocacional
+            
+            - **¿Qué características son importantes?**
+            
+            -Que los test vocacionales que se brindan a los usuarios que paguen la suscripción sean muchas precisos que los test para los usuarios free
+            
+            \- El usuario tendrá acceso a la información de los mejores especialistas con un ranking de cada especialista que ya haya realizado sus servicios
+            
+            \- Tener especialistas profesionales que puedan ayudar a los usuarios a escoger una correcta carrera profesional en base a su información
+            
+            \- Que los beneficios que se le brinda al usuario por pagar la suscripción sea los suficiente eficaces para ayudar al usuario en escoger una carrera profesional que le guste.
+            
+            - **User outcomes:** 
+              - Los usuarios también contarán con una cuenta de usuario para poder realizar las calificaciones necesarias a los especialistas.
+              - Los usuarios que usaron nuestra aplicación podrían recomendarnos sobre sus importantes logros con nuestra App.
+            - **Feature:**
+              - Para que los usuarios puedan usar nuestro producto, este necesita un diseño moderno y simple 
+              - Nuestros usuarios podrán usar nuestra aplicación para poder resolver sobre la elección de su especialidad a la cual quiere dedicarse en el futuro.
+            
+            Lean UX Hypothesis Statements**
+            
+            - **User Hypothesis** 
+            
+            Creemos que los jóvenes harán una mejor toma de decisiones antes de elegir una carrera al usar nuestro software.
+            
+            Sabremos que es cierto:
+            
+            Cuando veamos que los comentarios positivos sobre nuestra app aumenten.
+            
+            Creemos que la fidelidad de los usuarios se incrementará cuando nuestro software tenga una buena calificación y/o comentarios satisfactorios.
+            
+            Sabremos que es cierto:
+            
+            Cuando veamos que la cantidad de calificaciones negativas disminuyen en un 5%. 
+            
+            Creemos que la cantidad de usuarios nuevos incrementará cuando se incentive el uso a todos los escolares que estén culminando su formación secundaria.
+            
+            Sabremos que es cierto.
+            
+            Cuando veamos que la cantidad de usuarios nuevos por mes aumenta en un 4%.
     3. ## Segmentos Objetivo
     
 2. # REQUIREMENTS ELICITATION & ANALYSIS
