@@ -104,7 +104,7 @@
 
             Entrevista #01: Alvaro Lamg Chang (Edad: 25 años – Distrito: Jesús María) – Fecha de Entrevista: 04/09/2023
             
-            ![](./img/Entrevista_01.jpeg)
+            ![](https://i.imgur.com/PfICHrp.jpeg)
             
             Link: 
             
@@ -148,12 +148,12 @@
         1. ### User Personas
   
            User Persona Profesor:
-           ![](https://imgur.com/fSVqbbz)
+           ![](https://i.imgur.com/fSVqbbz.png)
   
            User Persona Padre de Familia:
-           ![](https://imgur.com/tq0bqIG)
+           ![](https://i.imgur.com/tq0bqIG.png)
 
- 
+
 
         3. ### User Task Matrix
 
