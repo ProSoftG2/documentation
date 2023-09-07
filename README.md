@@ -24,7 +24,7 @@
             <table><tr><th colspan="3" valign="top">Competitive Analysis Landscape</th></tr>
             <tr><td colspan="3" valign="top">¿Por qué llevar a cabo este análisis? <br>Realizar un análisis exhaustivo de los principales competidores en el mercado es crucial para comprender el panorama competitivo y tomar decisiones estratégicas informadas. Este análisis es necesario para identificar las ventajas competitivas y las oportunidades de mejora que nuestro Startup, "Skill Grades," puede aprovechar para destacarse en el mercado educativo peruano.</td></tr>
             <tr><td colspan="2" valign="top">Nombre</td><td valign="top">SICRECE (Sistema de Consulta de Resultados de Evaluaciones)</td></tr>
-            <tr><td colspan="2" valign="top">Logo</td><td valign="top">![](Aspose.Words.f2c2ce62-cce6-480d-8901-338ea18ecb49.001.png)</td></tr>
+            <tr><td colspan="2" valign="top">Logo</td><td valign="top"><img src="https://i.imgur.com/wCRyWJl.png"></td></tr>
             <tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">"SICRECE" es una plataforma implementada por el Ministerio de Educación del Perú a través de la Oficina de Medición de la Calidad de los Aprendizajes (UMC). Su principal función es proporcionar acceso a los resultados de evaluaciones nacionales e internacionales realizadas desde 2007 para medir la calidad de los aprendizajes en el sistema educativo peruano.</td></tr>
             <tr><td valign="top"><p>Ventaja</p><p>competitiva</p><p>¿Qué valor</p><p>ofrece a los</p><p>clientes</p></td><td valign="top">"SICRECE" tiene una ventaja importante al ser una fuente oficial de información sobre las evaluaciones educativas en Perú. Esto le brinda un alto nivel de confiabilidad y credibilidad en cuanto a la presentación de los resultados y su alineación con los estándares nacionales.</td></tr>
             <tr><td rowspan="2" valign="top"><p>Perfil de</p><p>Marketing</p></td><td valign="top"><p>Mercado</p><p>Objetivo</p></td><td valign="top">Dirigido a instituciones educativas, docentes, padres de familia y público en general interesado en conocer los resultados de las evaluaciones educativas a nivel nacional.</td></tr>
@@ -148,9 +148,11 @@
         1. ### User Personas
   
            User Persona Profesor:
+           
            ![](https://i.imgur.com/fSVqbbz.png)
-  
+
            User Persona Padre de Familia:
+           
            ![](https://i.imgur.com/tq0bqIG.png)
 
 
