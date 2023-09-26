@@ -28,38 +28,31 @@ Angel Auguto Velasquez Nuñez
 #### September 2023
 
 ## Registro de Versiones del Informe
-| Version   | Date          | Author        | Description           |
-|:---------:|:-------------:|:-------------:|:---------------------:|
-| TB1       | 25/09/2023    | Gabriel Martel| Que tanto texto puedo meter por aca no seeeee poer seguiremos escribiendo       |
-|           | -----------   | -----------   | -----------       |
-|           | -----------   | -----------   | -----------       |
-| TP1       | 25/09/2023    | Gabriel Martel| -----------       |
-|           | -----------   | -----------   | -----------       |
-|           | -----------   | -----------   | -----------       |
+
+
+<table><tr><th valign="top">Versión</th><th valign="top">Fecha</th><th valign="top">Autor</th><th valign="top">Descripción </th></tr>
+<tr><td rowspan="5" valign="top">TB1</td><td valign="top">28/08/2023</td><td valign="top">André Arroyo</td><td valign="top">Desarrollo del capítulo I: Introducción</td></tr>
+<tr><td valign="top">01/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Desarrollo del capítulo II: Competidores y diseño de Entrevistas</td></tr>
+<tr><td valign="top">04/09/2023</td><td valign="top">André Arroyo</td><td valign="top">Registro de entrevista</td></tr>
+<tr><td valign="top">04/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Registro de entrevista</td></tr>
+<tr><td valign="top">05/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Desarrollo del capítulo II: Análisis de Entrevistas y Needfinding</td></tr>
+<tr><td rowspan="6" valign="top">TP1</td><td valign="top">21/09/2023</td><td valign="top">André Arroyo</td><td valign="top">Correcciones de los ítems del Capítulo I</td></tr>
+<tr><td valign="top">22/09/2023</td><td valign="top">André Arroyo</td><td valign="top">Capítulo V: Product Implementation, Validation & Deployment -> 5.1.1 y 5.1.3</td></tr>
+<tr><td valign="top">22/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Correcciones de la TB1</td></tr>
+<tr><td valign="top">23/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Capítulo IV: Product Design: Web Applications Wireframes</td></tr>
+<tr><td valign="top">24/09/2023</td><td valign="top">Mauricio Oliveira Paucar</td><td valign="top">Capítulo IV: Product Design: Web Applications Wireflow Diagrams.</td></tr>
+<tr><td valign="top">25/09/2023</td><td valign="top">André Arroyo</td><td valign="top">Capítulo IV: Product Design -> 4.3 Landing Page UI Design</td></tr>
+</table>
 
 ## Project Report Collaboration Insights
 
 ## Contenido
         
 ## Student Outcome
-| Criterio Especifico| Acciones Realizadas | Conclusiones|
-|:------------------:|:-------------------:|:-----------:|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.       | Martel Zevallos, Gabriel Aristoteles   | Redactar una conclusion que sea algo larga para que achique l otra columna |
-|   | TB1   | |
-|   |Hicealgo para esta ebtrega|    |
-|   | TP1   |   |
-|   |Hicealgo para esta ebtrega|    |
-|   | Mauricio   |   |
-|   |TB1|    |
-|   |Hicealgo para esta ebtrega|    |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Martel Zevallos, Gabriel Aristoteles   | Redactar una conclusion que sea algo larga para que achique l otra columna |
-|   | TB1   |   |
-|   |Hicealgo para esta ebtrega|    |
-|   | TP1   |   |
-|   |Hicealgo para esta ebtrega|    |
-|   | Mauricio   |   |
-|   |TB1|    |
-|   |Hicealgo para esta ebtrega|    |
+|**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
+| :- | :- | :- |
+|**Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.**|<p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>Mi aporte en el equipo fue realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo participe en el desarrollo de la idea de negocio y aporte ideas para el desarrollo del logo.</p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TB1**</p><p>Mi aporte en el equipo fue dividir las tareas para el desarrollo del trabajo. Asimismo, participe en el desarrollo de idea de negocio para el trabajo </p><p></p><p>**Martel Zevallos. Gabriel**</p><p>**TB1**</p><p></p><p>**Arroyo Ormeño, André Alonso**</p><p>**TP1**<br>Me dedique a la mejora continua de las correcciones realizadas en el Capítulo I, asi como desarrollar los wireframe y mock up del landing page para móvil y web</p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TP1**<br>Se coordinó qué tareas hacer los días de clase que tuvimos, ya que el equipo estaba muy ocupado en otros cursos. A pesar de la falta de 2 integrantes se intentó avanzar y coordinar el trabajo parcial. </p><p></p><p>**Martel Zevallos. Gabriel**</p><p>**TP1**<br><br></p>|<p>-La herramienta Figma se revela como una valiosa herramienta en el proceso de diseño de landing pages y aplicaciones web, ya que ofrece funciones colaborativas en tiempo real y facilita la organización de proyectos mediante la característica de organizaciones.</p><p>-Se destaca nuevamente la relevancia de una comunicación efectiva al llevar a cabo entrevistas con los distintos grupos de personas a los que nos dirigimos como audiencia objetivo.</p><p>-Resulta imperativo comprender a fondo a nuestra audiencia objetivo para poder desarrollar productos que satisfagan sus necesidades y les ofrezcan una experiencia positiva como usuarios cuando elijan nuestros servicios o productos.</p><p></p>|
+|**Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.**|<p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>En esta entrega, me encargue de realizar en su totalidad el desarrollo del capítulo 1, teniendo en cuenta la idea de negocio y las correcciones que me hicieron mis compañeros. </p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TB1**</p><p>En esta entrega me encargue del desarrollo del capítulo II, para el cual fue necesario usar herramientas como miró y uxpresia para la elaboración de artefactos</p><p></p><p>**Martel Zevallos. Gabriel**</p><p>**TB1**</p><p></p><p>**Arroyo Ormeño, André Alonso**</p><p>**TP1**<br>En esta entrega, me encargué del desarrolló en su totalidad el capítulo 5.1.1 y 5.1.3 para el cual fue necesario recopilar toda la información del proceso de elaboración de nuestro proyecto<br>Adicionalmente me encargue del desarrollo del capítulo 4.3 para el cual fue necesario seguir las reglas de diseño elaborado por mis compañeros .</p><p></p><p>**Oliveira Paucar, Mauricio**</p><p>**TP1**<br>En esta entrega me encargue del desarrollo del Capítulo IV: 4.4.1 y 4.4.2 para lo cual fue necesario usar figma para la elaboración de los artefactos.</p><p></p><p>**Martel Zevallos. Gabriel**</p><p>**TP1**<br><br></p><p></p>|<p>- La recopilación de información reveló las diversas perspectivas de nuestros posibles usuarios, lo que nos permitió desarrollar los componentes esenciales para fortalecer nuestro proyecto con miras a nuestro objetivo principal.</p><p>- Llevar a cabo la clasificación de los requisitos y tareas es esencial, ya que permitirá al equipo identificar lo que debe entregarse en primer lugar.</p>|
 
 
 
