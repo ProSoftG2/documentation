@@ -137,7 +137,7 @@
 
              **User goal: Usuario se registra, recupera contraseña o inicia sesión a la aplicación con credenciales**
 
-            ![](https://i.imgur.com/F9S25I3.png)
+            ![](https://i.imgur.com/Qd2oZ8J.png)
 
             Descripción:
 Cuando el usuario abre la aplicación, se encuentra en la página de inicio de sesión, donde tiene tres alternativas: iniciar sesión con sus datos correctos, registrarse haciendo clic en la sección de registros, o recuperar su contraseña para recibir un enlace de restablecimiento. Una vez que el usuario inicia sesión con las credenciales correctas, accederá a su panel correspondiente, dependiendo de si es un reclutador o un candidato.
