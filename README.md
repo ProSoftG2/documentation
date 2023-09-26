@@ -94,8 +94,74 @@
     4. ## 4.4 Web Application UX/UI Design
 
         1. ### 4.4.1 Web Application Wireframes
+            **Link Figma Web Application Wireframes**
+            <https://www.figma.com/file/UdRCvE9pI4GtamivoTeiGx/Web-Application---Wireframe?type=design&node-id=0%3A1&mode=design&t=WvIfI5K1Dg2uQu4L-1>
+
+            <br>
+
+            **Registro de cuentas:**
+
+            ![](https://i.imgur.com/7Rzbmdp.png)
+
+            **Iniciar sesion:**
+
+            ![](https://i.imgur.com/tCmd8ie.png)
+
+            **Solicitar cambio de contraseña:**
+
+            ![](https://i.imgur.com/A5h4U3F.png)
+
+            **Cambio de contraseña:**
+
+            ![](https://i.imgur.com/DJYu2vV.png)
+
+            **Aplicación para padres de familia:**
+
+            ![](https://i.imgur.com/q7blh8v.png)
+
+            ![](https://i.imgur.com/M1JMnJW.png)
+
+            ![](https://i.imgur.com/mUJvAu5.png)
+
+            ![](https://i.imgur.com/w2w6q6z.png)
+
+            **Aplicación para profesores:**
+
+            ![](https://i.imgur.com/Bh6peum.png)
+
+            ![](https://i.imgur.com/D1s15O9.png)
+
+            ![](https://i.imgur.com/F9S25I3.png)
 
         2. ### 4.4.2 Web Application Wireflow Diagrams
+
+             **User goal: Usuario se registra, recupera contraseña o inicia sesión a la aplicación con credenciales**
+
+            ![](https://i.imgur.com/F9S25I3.png)
+
+            Descripción:
+Cuando el usuario abre la aplicación, se encuentra en la página de inicio de sesión, donde tiene tres alternativas: iniciar sesión con sus datos correctos, registrarse haciendo clic en la sección de registros, o recuperar su contraseña para recibir un enlace de restablecimiento. Una vez que el usuario inicia sesión con las credenciales correctas, accederá a su panel correspondiente, dependiendo de si es un reclutador o un candidato.
+
+             **User goal: Usuario desea ver las notas de sus hijos en una determinada asignatura o competencia.**
+
+            ![](https://i.imgur.com/YyPyyOA.png)
+
+            Descripción:
+Cuando el usuario abre la aplicación, se encuentra con una o más opciones dependiendo de cuantos hijos tenga matriculados en escuelas afiliadas. Al escoger uno de sus hijos el usuario puede ver las notas por cursos o ver que tal va el nivel de su hijo en cada competencia.
+
+             **User goal: Usuario desea editar o añadir nuevas calificaciones a un alumno**
+
+            **User goal: Usuario desea editar o añadir nuevos comentarios sobre las actividades de un alumno.**
+
+            **User goal: Usuario desea editar o añadir nuevas puntuaciones de nivel según la competencia de cada alumno.**
+
+            ![](https://i.imgur.com/5FWVcoG.png)
+
+            Descripción:
+Cuando el usuario abre la aplicación, se encuentra con uno o más salones en los que es docente. El usuario hace clic en “join” para ingresar a un aula. Al ingresar al aula el usuario se encontrará con la lista de todos los alumnos que están en esa sección. El usuario puede editar o agregar, comentarios, actividades, notas y niveles de competencias.
+
+
+
 
         3. ### 4.4.3 Web Application Mock-ups
 
