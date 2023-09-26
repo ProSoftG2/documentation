@@ -1,3 +1,67 @@
+![UPC logo](https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-3B1E4CBDE5-seeklogo.com.png)
+
+<h1 style="text-align:center;">
+Universidad Peruana de Ciencia Aplicadas
+</h1>
+<h3 style="text-align:center;">
+
+Software Engineering
+
+Aplicaciones Web
+
+SW52
+
+Angel Auguto Velasquez Nuñez
+</h3>
+
+<h2 style="text-align:center;">
+"Informe de Trabajo Final"
+</h2>
+
+# SKILL GRADES
+## ProSoft
+### Team Members
+* Martel Zevallos, Gabriel Artistoteles - u202121584
+* 2
+
+#### September 2023
+
+## Registro de Versiones del Informe
+| Version   | Date          | Author        | Description           |
+|:---------:|:-------------:|:-------------:|:---------------------:|
+| TB1       | 25/09/2023    | Gabriel Martel| Que tanto texto puedo meter por aca no seeeee poer seguiremos escribiendo       |
+|           | -----------   | -----------   | -----------       |
+|           | -----------   | -----------   | -----------       |
+| TP1       | 25/09/2023    | Gabriel Martel| -----------       |
+|           | -----------   | -----------   | -----------       |
+|           | -----------   | -----------   | -----------       |
+
+## Project Report Collaboration Insights
+
+## Contenido
+        
+## Student Outcome
+| Criterio Especifico| Acciones Realizadas | Conclusiones|
+|:------------------:|:-------------------:|:-----------:|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.       | Martel Zevallos, Gabriel Aristoteles   | Redactar una conclusion que sea algo larga para que achique l otra columna |
+|   | TB1   | |
+|   |Hicealgo para esta ebtrega|    |
+|   | TP1   |   |
+|   |Hicealgo para esta ebtrega|    |
+|   | Mauricio   |   |
+|   |TB1|    |
+|   |Hicealgo para esta ebtrega|    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Martel Zevallos, Gabriel Aristoteles   | Redactar una conclusion que sea algo larga para que achique l otra columna |
+|   | TB1   |   |
+|   |Hicealgo para esta ebtrega|    |
+|   | TP1   |   |
+|   |Hicealgo para esta ebtrega|    |
+|   | Mauricio   |   |
+|   |TB1|    |
+|   |Hicealgo para esta ebtrega|    |
+
+
+
 # Skill Grades
 # Capítulo I: Introducción 
 
