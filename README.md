@@ -88,6 +88,9 @@ Ser un startup referente para el sector de la educación que brinda soluciones S
 |![](https://imgur.com/evFYhp7.png)|<p>**Oliveira Paucar, Mauricio**</p><p>***Ingeniería de Software***</p><p> </p><p>**Me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste y llevar una vida cómoda. Cuento con conocimientos de C + + y HTML.**</p>|
 | :- | - |
 
+|![](https://i.imgur.com/QvmRQ4M.jpg)|<p>**Martel Zevallos, Gabriel**</p><p>***Ingeniería de Software***</p><p> </p><p>**Soy estudiante de 5º ciclo de la carrera de ingenieria de software. Soy una persona empatica y responsable con habilidades para aprender. Aporto a mi equipo con conocientos de programacion en distintos lenguajes y entornos. Puedo trabajar en equipo y soy un poco perfeccionista.**</p>|
+| :- | - |
+
 ## 1.2. Solution Profile
 
 ## 1.2.1 Antecedentes y problemática 
