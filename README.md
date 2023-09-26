@@ -22,7 +22,8 @@ Angel Auguto Velasquez Nuñez
 ## ProSoft
 ### Team Members
 * Martel Zevallos, Gabriel Artistoteles - u202121584
-* 2
+* Oliveira Paucar, Mauricio - U201719831
+* Arroyo Ormeño, André Alonso - U202114714
 
 #### September 2023
 
